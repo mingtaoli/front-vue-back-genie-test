@@ -1,0 +1,11 @@
+name = "Mygenie"
+uuid = "26b65aa7-9ca0-4104-80d2-efb69f99e1b0"
+authors = ["Mingtao Li <mingtao@xjtu.edu.cn>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Inflector = "6d011eab-0732-4556-8808-e463c76bf3b6"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
